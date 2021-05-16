@@ -1,4 +1,4 @@
-# [Tutorial] Adding Costumes to items without LUA
+# [Tutorial] Adding Costumes to items without Lua
 
 #### :fontawesome-solid-code: Example mod & code can be found here:
 
